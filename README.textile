@@ -1,5 +1,7 @@
 Thanks to "Robby Russell":https://github.com/robbyrussell/oh-my-zsh/ for putting the following instructions together.
 
+I have also followed the "Tuts+ instructions by Andrew Burgess":http://net.tutsplus.com/tutorials/tools-and-tips/how-to-customize-your-command-prompt/ to install the "Inconsolata font":http://www.levien.com/type/myfonts/inconsolata.html and the "Solarized":http://ethanschoonover.com/solarized/ color schemes.
+
 oh-my-zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and few things that make you shout...
 
 bq. "OH MY ZSHELL!"
